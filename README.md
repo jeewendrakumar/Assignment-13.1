@@ -1,4 +1,6 @@
 React.Component
+
+
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. React.Component is provided by React.
 
 Overview
