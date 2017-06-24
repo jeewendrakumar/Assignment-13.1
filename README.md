@@ -1,4 +1,4 @@
-React.Component
+<h1>React.Component</h1>
 
 
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. React.Component is provided by React.
@@ -10,7 +10,7 @@ Normally you would define a React component as a plain JavaScript class:
 
 class Greeting extends React.Component {
   render() {
-    return <h1>Hello, {this.props.name}</h1>;
+    return (Hello, {this.props.name});
   }
 }
 If you don't use ES6 yet, you may use the create-react-class module instead. Take a look at Using React without ES6 to learn more.
@@ -39,7 +39,7 @@ This method is called when a component is being removed from the DOM:
 componentWillUnmount()
 
 
-RelayContainer
+<h1>RelayContainer</h1>
 
 RelayContainer is a higher-order React component that lets a React component encode its data requirements.
 
